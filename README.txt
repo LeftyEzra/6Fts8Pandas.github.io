@@ -22,7 +22,5 @@ This portfolio website showcases my work as a full‑stack developer and data an
 ### **Purpose**
 This portfolio is a central hub to present my work to recruiters, collaborators, and teams. Each project demonstrates my ability to design, build, and deploy full‑stack applications, perform advanced data analysis, and deliver insights that solve real‑world problems.
 
-### **Live Demo**
-[Portfolio Website Link]  
-[StatsHub Demo Link](https://statshub-app.onrender.com)
+
 
