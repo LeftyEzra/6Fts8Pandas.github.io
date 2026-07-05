@@ -1,32 +1,28 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## 📑 Portfolio README
 
+### **Overview**
+This portfolio website showcases my work as a full‑stack developer and data analyst. Built with the **Massively template by HTML5 UP**, it highlights projects ranging from sports analytics platforms to exploratory data analysis, web scraping, and business intelligence dashboards.  
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+### **Featured Projects**
+- **StatsHub**: A full‑stack sports analytics and management platform. Features include player profiles, season‑long data storage, dashboards for FG%, 3PT%, FT%, shot charts, overall performance tracking, league standings, and integrated **Elite Store** for merchandise sales. It also offers **Elite Services** for athletic training, fitness, and nutrition forms.  
+- **Exploratory Data Analysis (EDA)**: Multiple projects analyzing NBA seasons, Aaron Gordon’s performance, and Denver Nuggets data using Python.  
+- **Web Scraping**: Extracted and cleaned sports data with Beautiful Soup for deeper insights.  
+- **Supermart Analysis with Power BI**: Transformed raw data into interactive dashboards to uncover sales trends.  
+- **Mental Health in Tech**: EDA highlighting stress, burnout, and anxiety among tech professionals.  
+- **Video Game Sales Analysis**: Explored global sales trends by platform, genre, and region.  
+- **Rent in Lagos**: Analyzed housing market dynamics across neighborhoods and rental types.  
+- **World Population Analysis**: Compared population growth and life expectancy rates across countries.  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### **Tech Stack**
+- **Frontend**: HTML5 UP (Massively template), JavaScript, Bootstrap, HTML/CSS  
+- **Backend**: Python, Django, PostgreSQL  
+- **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI  
+- **Hosting**: Render  
 
-(* = not included)
+### **Purpose**
+This portfolio is a central hub to present my work to recruiters, collaborators, and teams. Each project demonstrates my ability to design, build, and deploy full‑stack applications, perform advanced data analysis, and deliver insights that solve real‑world problems.
 
-AJ
-aj@lkn.io | @ajlkn
+### **Live Demo**
+[Portfolio Website Link]  
+[StatsHub Demo Link](https://statshub-app.onrender.com)
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
